@@ -1,0 +1,1 @@
+# Minecraft linker bot Rust Edition

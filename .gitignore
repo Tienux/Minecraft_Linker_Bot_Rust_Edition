@@ -1,0 +1,5 @@
+/target
+.env
+.idea
+mapping_player.json
+session_snapshot.json
