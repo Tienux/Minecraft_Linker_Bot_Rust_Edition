@@ -1,5 +1,5 @@
 [package]
-name = "mc-discord-bot"
+name = "Minecraft_Linker_Bot_Rust_Edition"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
