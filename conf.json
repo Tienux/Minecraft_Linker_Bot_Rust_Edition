@@ -1,0 +1,6 @@
+{
+  "channel_id": "123456789",
+  "mc_server_path": "C:/...",
+  "startup_message": "The server is online, come play!",
+  "shutdown_message": "The server is now offline."
+}
